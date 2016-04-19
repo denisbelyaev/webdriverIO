@@ -1,0 +1,18 @@
+{
+  "name": "webdriver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "selenium-webdriver": "^2.53.1"
+  },
+  "devDependencies": {
+    "selenium-webdriver": "^2.53.1",
+    "webdriverio": "^4.0.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
